@@ -14,7 +14,7 @@ Desktop Application functionalities:
 Installation Steps 
 1. Execute 
 ```
-datos de ingreso.sql (1) (structure of database) 
+datos de ingreso.sql (1) (structure of database and procedures) 
 Autollenado.sql (2) (information for test)
 ```
 2. Login 
